@@ -11,11 +11,19 @@ export default function Home() {
       </div>{" "}
       <p className="text-xl">
         You can find the code{" "}
-        <a className="underline" href="https://github.com/">
+        <a
+          className="underline"
+          target="_blank"
+          href="https://github.com/judahsullivan/navbar-tutorial"
+        >
           here
         </a>{" "}
         and{" "}
-        <a className="underline" href="">
+        <a
+          className="underline"
+          target="_blank"
+          href="https://www.youtube.com/channel/UCG0Jz5Ibm4kaX_TKQ2DtxfA"
+        >
           Video tutorial
         </a>{" "}
         is coming soon so please go subscribe to my channel! .
