@@ -1,5 +1,13 @@
 {
   "name": "navbar-yt",
+  "description": "animated menu built nextjs, framer-motion, and tailwindcss.",
+  "keywords": [
+    "nextjs",
+    "framer-motion",
+    "tailwindcss",
+    "nav",
+    "animated"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {

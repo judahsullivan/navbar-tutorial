@@ -1,3 +1,5 @@
+import * as React from "react";
+
 export default function Home() {
   return (
     <main className="p-5  gap-10 text-center flex flex-col bg-gray-200 justify-center items-center overflow-hidden w-full min-h-screen ">

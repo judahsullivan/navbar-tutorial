@@ -1,3 +1,4 @@
+import * as React from "react";
 import { motion } from "framer-motion";
 import { SiGithub, SiLinkedin, SiYoutube, SiTwitter } from "react-icons/si";
 import Link from "next/link";
